@@ -1,0 +1,2 @@
+//Defination of adjacency list.
+ 
